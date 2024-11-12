@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    Welcome to visit my github profile!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-<!--
-**Rene-Woensdregt/Rene-Woensdregt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Passionate and highly-skilled Shopify Developer with extensive experience in Shopify Theme | Frontend development.**
 
-Here are some ideas to get you started:
+<div>
+My primary objective is to help Shopify store owners achieve their goals by providing on-time high quality work.
+</br>
+</br>
+<strong>Rich Experience in:</strong>
+</br>
+ ✔️ Shopify plus
+ </br>
+ ✔️ CRO AB test
+ </br>
+ ✔️ Speed/SEO optimization with Lighthouse, 
+ </br>
+ ✔️ GTM,CRO(AB test) pixel code integration
+ </br>
+ ✔️ Shopify app integration(ReCharge, Metafield, Product filter & search app), etc.
+ </br>
+ ✔️ 3rd party app integration(Landbot, Tidio chat, etc)
+ </br>
+ ✔️ JS Frontend Frameworks (React.js | Vue.js | Angular.js)
+ </br>
+ </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>Highly skilled in:</strong>
+</br>
+ ✔️ HTML
+ </br>
+ ✔️ JavaScript
+ </br>
+ ✔️ CSS/SCSS
+ </br>
+ ✔️ Liquid Template
+ </br>
+ ✔️ React JS
+ </br>
+ ✔️ Vue JS
+ </br>
+ ✔️ Angular JS
+ </br>
+ </br>
+
+</div>
