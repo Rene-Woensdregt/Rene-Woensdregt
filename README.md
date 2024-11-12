@@ -24,7 +24,7 @@ My primary objective is to help Shopify store owners achieve their goals by prov
  </br>
  ✔️ 3rd party app integration(Landbot, Tidio chat, etc)
  </br>
- ✔️ JS Frontend Frameworks (React.js | Vue.js | Angular.js)
+ ✔️ JS Frontend Frameworks
  </br>
  </br>
 
