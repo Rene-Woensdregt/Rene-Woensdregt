@@ -4,8 +4,9 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-## **Passionate and highly-skilled Shopify Developer with extensive experience in Shopify Theme | Frontend development.**
+## **Shopify Development Partner | AI Solution Architect**
 
+## **Passionate and highly-skilled Shopify Developer with extensive experience in Shopify Theme | Frontend development.**
 <div>
 My primary objective is to help Shopify store owners achieve their goals by providing on-time high quality work.
 </br>
@@ -27,7 +28,19 @@ My primary objective is to help Shopify store owners achieve their goals by prov
  ✔️ JS Frontend Frameworks
  </br>
  </br>
-
+<strong>AI Solutions:</strong>
+</br>
+ ✔️ AI-powered chatbots & customer support automation
+ </br>
+ ✔️ LLM integration (OpenAI, Claude, etc.)
+ </br>
+ ✔️ AI-driven product recommendations & personalization
+ </br>
+ ✔️ Workflow automation & AI agents
+ </br>
+ ✔️ RAG & custom AI solution architecture
+ </br>
+ </br>
 <strong>Highly skilled in:</strong>
 </br>
  ✔️ HTML
@@ -45,5 +58,4 @@ My primary objective is to help Shopify store owners achieve their goals by prov
  ✔️ Angular JS
  </br>
  </br>
-
 </div>
