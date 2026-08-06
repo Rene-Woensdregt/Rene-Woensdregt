@@ -59,8 +59,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rene-Woensdregt&show_icons=true&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rene-Woensdregt&layout=compact&theme=default&hide_border=true" height="165" />
 </p>
 
 ---
@@ -69,7 +69,3 @@
 
 I partner with founders and teams to ship polished storefronts and smart AI features.
 Open to Shopify projects, AI integrations, and long-term collaborations.
-
-<p>
-  📫 &nbsp;Reach me on <a href="https://www.upwork.com/">Upwork</a> &nbsp;·&nbsp; Let's build something great.
-</p>
