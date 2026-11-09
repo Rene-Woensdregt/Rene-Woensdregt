@@ -123,9 +123,3 @@
 
 I partner with founders and teams to ship polished storefronts and smart AI features.
 Open to Shopify projects, AI integrations, and long-term collaborations.
-
-<p align="center">
-  <a href="mailto:rene.devwork@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rene.devwork@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
